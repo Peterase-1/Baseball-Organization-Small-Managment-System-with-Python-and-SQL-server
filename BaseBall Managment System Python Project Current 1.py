@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import pypyodbc as odbc
 
 DRIVER_NAME = 'SQL Server' 
-SERVER_NAME = 'PETERASE'
+SERVER_NAME = 'PETERASE' #Use Your Local Server Name
 DATABASE_NAME = 'Baseball Organization'
 
 # Correct Connection String
